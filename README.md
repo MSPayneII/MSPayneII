@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael, and welcome to my Github Profile!</h1>
-<h3 align="center">I'm a UX researcher/aspiring web developer looking to combine both worlds.</h3>
+<h3 align="center">I'm a UX researcher/aspiring UX Engineer.</h3>
 
 <h3 align="left">About Me.</h3>
 <p align="left">I view life as one giant puzzle with individual pieces representing different aspects of our lives. One puzzle piece alone may be hard to decipher, but a beautiful image emerges when many of them are connected. This mindset carries over to my work. I enjoy utilizing research processes to piece together information, telling captivating stories to bring forward positive change. I love the development process of configuring code pieces to visualizing stories and the message I'm trying to convey.</p>
