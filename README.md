@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mspayneii&label=Profile%20views&color=0e75b6&style=flat" alt="mspayneii" /> </p>
 
-- 🔭 I’m currently working on [8-Ball Fortune Teller](https://github.com/MSPayneII/foundations-capstone)
+- 🔭 I’m currently working on [Audiophile E-commerce](https://github.com/MSPayneII/Audiophile_e-commerce)
 
 - 🌱 I’m currently learning **Javascript and React**
 
